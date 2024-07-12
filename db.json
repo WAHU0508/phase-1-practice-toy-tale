@@ -4,7 +4,7 @@
       "id": "1",
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 1,
+      "likes": 2,
       "$inc": {
         "likes": 1
       }
@@ -13,7 +13,7 @@
       "id": "2",
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8,
+      "likes": 9,
       "$inc": {
         "likes": 1
       }
@@ -22,7 +22,7 @@
       "id": "3",
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3,
+      "likes": 4,
       "$inc": {
         "likes": 1
       }
@@ -68,6 +68,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "id": "1507",
+      "name": "Sid",
+      "image": "https://www.google.com/imgres?q=sid%20characters%20from%20toy%20story&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fcharacters%2Fimages%2F8%2F81%2FSid_Phillips.png%2Frevision%2Flatest%3Fcb%3D20190405022722&imgrefurl=https%3A%2F%2Fcharacters.fandom.com%2Fwiki%2FSid_Phillips&docid=2jV_EOsWa7skiM&tbnid=poSQe1bSnfT82M&vet=12ahUKEwjk25HZ_KCHAxV92QIHHd-mD0UQM3oECFQQAA..i&w=496&h=767&hcb=2&ved=2ahUKEwjk25HZ_KCHAxV92QIHHd-mD0UQM3oECFQQAA",
+      "likes": 0
+    },
+    {
+      "id": "857c",
+      "name": "Jessie",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-y1ys73_7dd5c0b7.jpeg?region=0,0,450,450",
+      "likes": 0
     }
   ]
 }
